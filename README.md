@@ -1,1 +1,1 @@
-# YGO_Card_Art_DB
+# Card Art, Layerwise Generation Project
